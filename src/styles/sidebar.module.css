@@ -1,0 +1,21 @@
+.sbContainer {
+  width: 75px;
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  position: fixed;
+}
+
+.navContainer {
+  width: 100%;
+  text-align: center;
+}
+
+.iconImg {
+  width: 65%;
+  height: auto;
+}
+
+.navLink {
+  margin: 10vh 0;
+}

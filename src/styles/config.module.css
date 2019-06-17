@@ -1,0 +1,24 @@
+.appContainer {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bgCol {
+  background-color: #1d1e22;
+}
+
+.sidebarCol {
+  background-color: #141518;
+}
+
+.contentContainer {
+  display: inline-block;
+  width: calc(100vw - 75px);
+  margin-left: 75px;
+  overflow: hidden;
+}
+.svgFill {
+  fill: #feda6a;
+}
